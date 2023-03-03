@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @denizcancan
 - 👀 I’m interested in game developing, cyber security and crypto currency
-- 🌱 I’m currently learning Java 
-- 💞️ I’m looking to collaborate on basic java and web developement projects
-- 🎓 I'm currently studying at Bilkent University as a freshman Computer Science student
+- 🌱 I’m currently learning c++ 
+- 💞️ I’m looking to collaborate on java and web developement projects
+- 🎓 I'm currently studying at Bilkent University as a sophomore Computer Science student
 - 📫 How to reach me instagram:denizcan_13
 
 <!---
