@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @denizcancan
-- 🎓 I'm currently studying at Bilkent University as a junior Computer Science student
+- 🎓 I'm currently studying at Bilkent University as a senior Computer Science student
 - 📫 How to reach me instagram:denizcan_13
 
 <!---
