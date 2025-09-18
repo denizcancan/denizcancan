@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @denizcancan
-- 🎓 I'm currently studying at Bilkent University as a senior Computer Science student
-- 📫 How to reach me instagram:denizcan_13
+- 🎓 CS Graduate
+
 
 <!---
 denizcancan/denizcancan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
